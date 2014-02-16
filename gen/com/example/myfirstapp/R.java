@@ -75,5 +75,11 @@ public final class R {
  All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppTheme=0x7f060001;
+        /**  the theme applied to the application or activity 
+         */
+        public static final int CustomActionBarTheme=0x7f060002;
+        /**  ActionBar styles 
+         */
+        public static final int MyActionBar=0x7f060003;
     }
 }
